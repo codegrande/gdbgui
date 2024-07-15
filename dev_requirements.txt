@@ -1,3 +1,4 @@
 collective.checkdocs==0.2
 flake8==3.5.0
 PyInstaller==3.3.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
